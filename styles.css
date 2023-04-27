@@ -1,0 +1,19 @@
+img {
+ height: 200px;
+ width: 300px;
+}
+
+.desc { 
+  font-style: italic;
+}
+
+.card {
+  margin: auto;
+  fit: 305px:
+}  
+
+
+.title {
+ position: center; 
+ font-weight: bold:
+}
