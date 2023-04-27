@@ -17,3 +17,7 @@ img {
  position: center; 
  font-weight: bold:
 }
+
+p {
+  max-width: 300px;
+}
